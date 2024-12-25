@@ -1,9 +1,8 @@
 # [2024 WINTER] Amazon Products Recommendation System
-This is a side project of 2024 Winter vacation. The objective is to build a simple recommendation system. 
-There are 6 checkpoints to be done in 7 weeks, each is expected to complete in 1 week.
+This is a side project of 2024 Winter vacation. The objective is to build a simple recommendation system.  There are 6 checkpoints to be done in 7 weeks, each is expected to complete in 1 week.
 
 ## Project Overview
-This project is a comprehensive learning and implementation journey through Machine Learning (ML), Deep Learning (DL), and Databases, with a focus on building a robust recommendation system. The final output will integrate multiple models and techniques into a cohesive recommendation engine, suitable for diverse applications.
+This project is a comprehensive learning and implementation journey through Machine Learning (ML), Deep Learning (DL), and Databases (DB), with a focus on building a robust recommendation system. The final output will integrate multiple models and techniques into a cohesive recommendation engine, suitable for diverse applications.
 
 ## Week-by-Week Plan
 
@@ -15,6 +14,7 @@ The detailed spec will write in each checkpoint.
   - **Objective**: Implement a collaborative filtering recommendation system using Amazon Review Data.
   - **Learning**: Recommendation Task.
  
+
 - **[CNN] Week 2: Image Recommendations**
   - **Time**: 1/5 ~ 1/11
     
@@ -27,23 +27,17 @@ The detailed spec will write in each checkpoint.
   - **Objective**: Design and implement a database to manage user and product interaction data.
   - **Learning**: Foundational understanding of relational databases and SQL.
 
-- **[RNN] Week 5: Sentiment Analysis**
-  - **Time**: 1/26 ~ 2/1
+- **[RNN] Week 5-6: Sentiment Analysis**
+  - **Time**: 1/26 ~ 2/8
     
   - **Objective**: Leverage text reviews to improve recommendations by incorporating sentiment analysis.
   - **Learning**: NLP with transformer-based model.
  
 - **[ML] Week 6: Multi-Modal Recommendation System**
-  - **Time**: 2/2 ~ 2/8
-    
-  - **Objective**: Combine collaborative filtering, CNN-based image features, and text-based sentiment analysis into a unified recommendation engine.
-  - **Learning**: Unidied the pipeline.
- 
-- **[ML] Week 7: Final Optimization and Deployment**
   - **Time**: 2/9 ~ 2/15
     
-  - **Objective**: Fine-tune the recommendation system and prepare for deployment or showcase.
-  - **Learning**: Fine-tuning and enhancing.
+  - **Objective**: Combine collaborative filtering, CNN-based image features, and text-based sentiment analysis into a unified recommendation engine.
+  - **Learning**: Integration of multiple models and techniques.
  
 ## Resources
 
