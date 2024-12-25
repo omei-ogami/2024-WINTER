@@ -33,7 +33,7 @@ The detailed spec will write in each checkpoint.
   - **Objective**: Leverage text reviews to improve recommendations by incorporating sentiment analysis.
   - **Learning**: NLP with transformer-based model.
  
-- **[ML] Week 6: Multi-Modal Recommendation System**
+- **[ML] Week 7: Multi-Modal Recommendation System**
   - **Time**: 2/9 ~ 2/15
     
   - **Objective**: Combine collaborative filtering, CNN-based image features, and text-based sentiment analysis into a unified recommendation engine.
