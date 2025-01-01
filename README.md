@@ -1,4 +1,4 @@
-# [2024 WINTER] Amazon Products Recommendation System
+# [2024 WINTER] Amazon Books Recommendation System
 This is a side project of 2024 Winter vacation. The objective is to build a simple recommendation system.  There are 6 checkpoints to be done in 7 weeks, each is expected to complete in 1 week.
 
 ## Project Overview
@@ -42,7 +42,7 @@ The detailed spec will write in each checkpoint.
 ## Resources
 
 - Datasets:
-  - Amazon Review Data
+  - Books dataset from Kaggle
   - Optional: Other open datasets for testing.
 
 - Tools and Frameworks:
