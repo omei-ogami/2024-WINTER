@@ -9,7 +9,7 @@ Build a collaborative filtering recommendation system using Amazon Review Data. 
 These are the tasks you should complete in this week:
 
 ### 1. **Data Preparation**
-- Download the [Amazon Review Data (5-core subset)](https://nijianmo.github.io/amazon/#subsets).
+- Download the [Amazon Books Reviews](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews).
 - Preprocess the data:
   - Filter out irrelevant columns.
   - Handle missing or inconsistent values.
